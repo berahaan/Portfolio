@@ -654,7 +654,7 @@ export default function Project() {
               onClick={() => openModal("/chatLogin.png")}
             >
               <Image
-                src="/chatLogin.png"
+                src="/ChatLogin.png"
                 width={500}
                 height={300}
                 alt="Login to chat"
